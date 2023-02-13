@@ -207,6 +207,13 @@ img {
     margin-left: 98px;
 }
 
+.order__title {
+    font-weight: 500;
+    font-size: 44.2px;
+    line-height: 52px;
+    margin-bottom: 24px;
+}
+
 .order__text {
     margin-bottom: 13px;
 }
@@ -219,18 +226,11 @@ img {
 }
 
 .price {
-
+    font-weight: 500;
 }
 
 .order__column {
     width: 50%;
-}
-
-.order__title {
-    font-weight: 500;
-    font-size: 44.2px;
-    line-height: 52px;
-    margin-bottom: 24px;
 }
 
 .order__price {
